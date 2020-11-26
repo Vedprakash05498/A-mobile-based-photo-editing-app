@@ -191,7 +191,7 @@ It will take default fonts provided in the builder,If you want different Emoji f
                     }
                 });
 ```
-For more detail check [Saving](https://github.com/burhanrashid52/PhotoEditor/wiki/Saving)
+
     
 
 
