@@ -138,7 +138,7 @@ Now you can edit the text with a view like this
 
 ## Emoji
 
-![](https://i.imgur.com/RP8kqz6.gif)
+
 
 You can add the Emoji by `PhotoEditor.getEmojis(getActivity());` which will return a list of emojis unicode.
 
@@ -159,7 +159,7 @@ It will take default fonts provided in the builder,If you want different Emoji f
 
 ## Undo and Redo
 
-![](https://i.imgur.com/1Y9WcCB.gif)
+
 
  ```
    mPhotoEditor.undo();
